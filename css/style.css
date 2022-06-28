@@ -1,0 +1,64 @@
+.container {
+  width: 1040px;
+  margin: 0 auto;
+}
+.one {
+  width: 1000px;
+  height: 500px;
+  background: #4c3a51;
+}
+.content {
+  display: flex;
+}
+.two {
+  width: 500px;
+  background-color: #774360;
+  height: 500px;
+}
+.two {
+  width: 500px;
+  background-color: #774360;
+  height: 500px;
+}
+.thare {
+  width: 500px;
+  background-color: #b25068;
+  height: 500px;
+}
+.child_two {
+  display: flex;
+}
+.four,
+.five {
+  margin-top: 60px;
+  width: 500px;
+  background-color: #e7ab79;
+  height: 500px;
+}
+.five {
+  background-color: #4a433d;
+}
+.child_four {
+  display: flex;
+  margin-top: 30px;
+  gap: 20px;
+}
+.six,
+.seven,
+.eight {
+  width: 320px;
+  height: 500px;
+  background-color: #bd8251;
+}
+.seven {
+  background-color: #ac886a;
+}
+.eight {
+  border-color: #604936;
+}
+.nine {
+  width: 1000px;
+  background-color: #a0d995;
+  height: 500px;
+  margin-top: 60px;
+}
